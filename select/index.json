@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "六道伍感さんぽ",
+  "base_artist": "戌亥とこ",
+  "createdAt": "2025-12-23T09:06:47.990345Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "六道伍感さんぽ",
+      "artist": "Inui Toko",
+      "has_synced": true,
+      "path": "select/01_六道伍感さんぽ_Inui_Toko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "六道伍感さんぽ",
+      "artist": "戌亥とこ",
+      "has_synced": false,
+      "path": "select/pl_01_六道伍感さんぽ_戌亥とこ.txt"
+    }
+  ]
+}
